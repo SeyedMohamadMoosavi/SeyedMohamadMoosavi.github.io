@@ -19,7 +19,7 @@
   @include breakpoint($large) {
     float: left;
     width: calc(#{$right-sidebar-width-narrow} - 1em);
-    opacity: 0.90;
+    opacity: 0.85;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
 
@@ -136,7 +136,13 @@
   img {
     max-width: 200px;
     border-radius: 10%;
-    
+    filter: grayscale(90%);
+    -webkit-transition: filter 0.2s ease-in-out;
+    transition: filter 0.2s ease-in-out;
+
+    &:hover {
+      filter: grayscale(0%);
+    }
     @include breakpoint($large) {
       padding: 1px;
       border: 1px solid $border-color;
