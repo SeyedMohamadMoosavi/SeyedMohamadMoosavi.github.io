@@ -5,9 +5,9 @@ main:
   - title: "Research"
     url: /research/
   - title: "Publications"
-    url: /publications/
-  - title: "CV"
-    url: /CV/
+    url: https://scholar.google.com/citations?user=AS9Iz-kAAAAJ&hl=en 
+      #  - title: "CV"
+      #    url: /CV/
       #   - title: "Tutorials"
       #     url: /tutorials/
       #   - title: "Teaching"
