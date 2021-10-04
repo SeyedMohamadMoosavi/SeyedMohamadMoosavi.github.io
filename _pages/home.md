@@ -10,6 +10,7 @@ I am a PostDoc in the group of Frank Noé, AI four Sciences, at FU-Berlin. My re
 
 
 Where to find me in fall:
-- EuroMOF2021 conference, talk September
-- Chemistry as Innovative Science (CHAIN), invited talk, December
+- EuroMOF2021 conference, talk September 2021
+- Machine Learning in Heterogeneous Porous Materials, invited to the National Academies of Sciences, Engineering, and Medicine symposium series, October 2021
+- Chemistry as Innovative Science (CHAIN), invited talk, December 2021
 
