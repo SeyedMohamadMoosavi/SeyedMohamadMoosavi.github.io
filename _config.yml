@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Seyed Mohamad Moosavi"
-  avatar           : "/assets/images/profile2.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a scientist, excited about using AI, computers, and theory to find novel materials for clean energy applications."
   location         : "Berlin, Germany"
   email            :
