@@ -5,11 +5,19 @@ author_profile: true
 permalink: /
 ---
 
+I am a postdoctoral researcher in Artificial Intelligence for Sciences group [(AI4Sciences)](https://www.mi.fu-berlin.de/en/math/groups/ai4s/index.html), at Freie Universität Berlin, Germany. My interdisciplinary research is focused on computational and data-driven design and engineering of novel materials. I am particularly excited to develop methods to enable autonomous matter development for energy-related applications.
 
-## My Short Bio
-I received my undergraduate degrees in mechanical engineering from the Sharif University of Technology in Tehran, Iran. I moved to Switzerland for my M.Sc. at École Polytechnique Fédérale de Lausanne (EPFL) and then joined the group of Prof. Berend Smit at EPFL for my Ph.D. in chemistry and chemical engineering. In 2019, I visited Prof. Kulik’s group at MIT on an SNSF fellowship award. I defended my Ph.D. in March 2020, which was awarded the best Ph.D. thesis in chemistry and chemical engineering of EPFL.  I obtained an SNSF postdoctoral fellowship to perform my research in Prof. Frank Noé's group, AI4Sciences, at Freie Universität Berlin, Germany. 
+I obtained my Ph.D. in chemistry and chemical engineering from [EPFL](https://www.epfl.ch/en/), Switzerland, in the Laboratory for Molecular Simulation ([LSMO](https://lsmo.epfl.ch/)). My dissertation was [awarded the best Ph.D. thesis](https://mobile.twitter.com/smohmoosavi/status/1339604695740862464) in chemistry and chemical engineering of EPFL in 2020. In 2019, I visited Prof. Kulik’s group at [MIT](http://hjkgrp.mit.edu/) on an SNSF fellowship award. During COVID pandemic, I remotely collaborated with [EntosAI](https://www.entos.ai/) and [CalTech](https://millergroup.caltech.edu/Miller_Group/Home.html).
 
-My research interests focus on computational and data-driven design and engineering of novel materials for energy-related applications. In particular, I develop methods to enable an autonomous matter development for energy-related applications.
+My research has been highlighted in Nature, Nature Communications, JACS, Chemical Sciences, ACS Central Science, and Chemical Reviews. You can find my publications on my [google scholar](https://scholar.google.com/citations?user=AS9Iz-kAAAAJ&hl=en) account.
+
+ 
+[<img src="assets/covers/mofs_timeline_1.gif" width="620" align="center">](https://www.nature.com/articles/s41467-020-17755-8%C2%BB)
+
+[<img src="assets/covers/JACS_2020.jpeg" width="200">](https://pubs.acs.org/doi/abs/10.1021/jacs.0c09105)
+[<img src="assets/covers/JACS_2019.jpeg" width="200">](https://pubs.acs.org/doi/abs/10.1021/jacs.9b05967)
+[<img src="assets/covers/ChemRev_2020.jpeg" width="200">](https://pubs.acs.org/doi/abs/10.1021/acs.chemrev.0c00004)
+
 
 ## Where to find me in fall-2021:
 - [EuroMOF2021](https://euromof2021.confer.uj.edu.pl/en_GB/home) conference, talk September 2021
